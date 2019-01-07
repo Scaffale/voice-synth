@@ -1,6 +1,6 @@
 # voice-synth
 Sintetizzatore vocale **mac**.
-
+Richiede `ffmpeg`.
 
 Legge tutti i file in formato `.toread` e li sintetizza con la voce italiana di Luca in `.mp3`.
 
